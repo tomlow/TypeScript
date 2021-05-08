@@ -23,5 +23,3 @@ const colors: string[][] = [
   ['blue', 'green'],
   ['red', 'orange'],
 ];
-
-const;

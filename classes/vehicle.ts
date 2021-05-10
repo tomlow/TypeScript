@@ -18,6 +18,7 @@ class Car extends Vehicle {
   }
 }
 
+
 const car = new Car();
 
 car.drive(); //doesn't work, bc private

@@ -3,7 +3,6 @@ class Vehicle {
     console.log('Vroom vroom chugga choo');
   }
 }
-
 const vehicle = new Vehicle();
 
 class Car extends Vehicle {
